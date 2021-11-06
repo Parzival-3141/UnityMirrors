@@ -44,7 +44,7 @@ RenderSettings:
 LightmapSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 11
-  m_GIWorkflowMode: 0
+  m_GIWorkflowMode: 1
   m_GISettings:
     serializedVersion: 2
     m_BounceScale: 1
@@ -304,6 +304,25 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 134117026}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &134117028 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 723314148832069374, guid: 17e00d9a213e31d43a473620df6b2665,
+    type: 3}
+  m_PrefabInstance: {fileID: 134117026}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &134117029
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 134117028}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe74ad42be0193642965a9c9944991a7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  synchronizeAll: 0
 --- !u!1001 &177360637
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1748,6 +1767,25 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1018978272}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!1 &1079396308 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 723314148832069374, guid: 17e00d9a213e31d43a473620df6b2665,
+    type: 3}
+  m_PrefabInstance: {fileID: 393806578}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1079396309
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1079396308}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe74ad42be0193642965a9c9944991a7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  synchronizeAll: 0
 --- !u!1 &1140159190
 GameObject:
   m_ObjectHideFlags: 0
@@ -3320,6 +3358,25 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 2124380208}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &2124380210 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 723314148832069374, guid: 17e00d9a213e31d43a473620df6b2665,
+    type: 3}
+  m_PrefabInstance: {fileID: 2124380208}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &2124380211
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2124380210}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe74ad42be0193642965a9c9944991a7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  synchronizeAll: 0
 --- !u!1 &2142906435
 GameObject:
   m_ObjectHideFlags: 0
