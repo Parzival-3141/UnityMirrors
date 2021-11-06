@@ -40,7 +40,7 @@ public class RandomRotate : MonoBehaviour
                 synchronizeAll = sync;
 
             time = 0;
-            rate = sync ? syncSpinRate : Random.Range(syncSpinRate * 0.333f, syncSpinRate * 1.f);
+            rate = sync ? syncSpinRate : Random.Range(syncSpinRate * 0.333f, syncSpinRate * 1.0f);
         }
 
         lastSyncAll = synchronizeAll;
